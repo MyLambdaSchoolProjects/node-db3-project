@@ -50,7 +50,7 @@ Write helpers methods in `./schemes/scheme-model.js` that match the following sp
     -   Removes the scheme object with the provided id.
     -   Resolves to the removed scheme
     -   Resolves to `null` on an invalid id.
-    -   (Hint: Only worry about removing the `scheme`. The database is configured to automatically remove all associated steps.)
+    -   (Hint: Only worry about removing the `scheme`. The database is configured to automatically remove all associated steps.) 
 
 #### Schemes Schema
 
